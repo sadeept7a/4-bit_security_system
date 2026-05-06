@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     461622504612675585       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Tiny Tapeout : Lock system v2"      # Project title
+  title:        "Tiny Tapeout : Lock system v2 (IEEE)"      # Project title
   author:       "Sadeeptha Palihawadana"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "4 digit lock system"      # One line description of what your project does
